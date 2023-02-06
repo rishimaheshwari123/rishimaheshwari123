@@ -1,5 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://nkvak.medium.com/from-ux-to-web-development-c119a3171bf9))](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rishi Maheshwari 👋</h1>
+[![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nkvak%2Ffrom-ux-to-web-development-c119a3171bf9%3Fsource%3Dpost_internal_links---------7----------------------------&psig=AOvVaw0mbvMXGZuPnWzC8qUttUrP&ust=1675793659322000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLie9YDAgf0CFQAAAAAdAAAAABAQ)](https://nkvak.medium.com/from-ux-to-web-development-c119a3171bf9))](https://rishavchanda.io)
+<h1 align="center">Hello 👋, I'm Rishi Maheshwari 👋</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
