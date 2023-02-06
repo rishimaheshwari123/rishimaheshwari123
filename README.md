@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif))](https://rishavchanda.io)
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm Rishi Maheshwari 👋</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
